@@ -191,4 +191,4 @@ Execute the queries in `retail-orders-analysis-query-file.sql` in SSMS or Azure 
 ---
 
 ## Contact
-**Alwyn Munatsi** — [LinkedIn](https://www.linkedin.com/in/alwynmunatsi) · munatsialwyn@gmail.com
+**Alwyn Munatsi** — [LinkedIn](https://www.linkedin.com/in/alwynmunatsi) · munatsialwyn26@gmail.com
